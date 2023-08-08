@@ -1,0 +1,7 @@
+The assignment has been developed in two modules, the first calculates the frequences of each dimer over the CpG island sequences 
+and non-CpG island sequences of chromosome 22. Results are stored in txt files that can be used in the second module to produce the two models.
+The two python files must be stored in a folder containing the fasta file of chromosome 22 and the txt file containing the details of the CpG islands over the genome 
+(are the two files that are also shown in the slides, I used the links there to download them).
+In order, first run the 'FrequencesForModels.py' and then the 'ModelCpGIsland.py'; the models are checked using three sequences:
+a CpG island randomly selected from chr 22 (step done in the first python file and stored in a txt file), a sequence randomly selected from chr 22 that is likely not a 
+CpG island and a randomly generated sequence.
