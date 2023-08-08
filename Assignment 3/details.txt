@@ -1,0 +1,4 @@
+The assignment has been developed in three different python codes: the first contains the fuctions for the BWT and 
+the reversal, the second matches a string P to the genome and returns whether the string actually matches or not, the third
+still matches a string P and also returns the offset at which it occurs.
+All three files contain the lines to test the code, just need to remove the quotations. No input is required.
