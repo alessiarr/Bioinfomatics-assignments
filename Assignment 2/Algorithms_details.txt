@@ -1,0 +1,6 @@
+The file 'ShortestCommonString.py' contains the Python code for the greedy algorithm, where the prefix-suffix overlap has
+to be of at least three characters to be taken into accoutnt. At the end of the code there are some lines both to test the algorithm 
+and to compare the result with the Brute Force approach (see line 4, the methods have been imported)
+The file 'BruteForceSCS.py', instead, contains the Brute Force algorithm.
+Both algorithms can be tested both with a random generation (methods 'getGenome' and 'getSubstrings') and with the strings used 
+in the slides as example (which are {'ATCGGA','TACCCA', 'AGCTAC', 'CGGATT', 'TTGCTA'}).
