@@ -5,9 +5,9 @@ Implementing the Needleman-Wunsch algorithm, dynamic programming approach for th
 - Input: two sequences
 - Output: their alignment 
 ## Assignment 2: Genome Assembly
-Finding the shortest common sequence, greedy approach for the suffix-prefix overlap.
+Finding the shortest common sequence, brute-force and greedy approaches for the suffix-prefix overlap.
 - Input: a set of strings
-- Output: their shortest common 
+- Output: their shortest common superstring 
 ## Assignment 3: Read mapping
 Implementing the Burrow-Wheeler transform and string matching.
 - Input: a genome sequence T and a query P
