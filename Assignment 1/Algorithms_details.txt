@@ -1,0 +1,21 @@
+NEEDLEMAN & WUNSCH ALGORITHM: both the filled matrix, the score and the alignment are visualized.
+Inputs must be provided in the terminal together with the file name (sys strategy was employes); the inputs must be written in the following order
+1. file name
+2. string 1
+3. string 2
+4. match score
+5. mismatch score
+6. gap score
+
+SMITH & WATERMAN ALGORITHM: as for the N&W, will be dispayed both the matrix, the score and the local alignment
+The algorithm was implemented in such a way that the traceback stops when all 3 neighbors are 0
+OR
+none of the neighbors could have produced that value (it is the case of some zeros, where their true value should actually be negative)
+	--> THEREFORE, if some neighbor could have generated the zero, the alignment continues, otherwise it stops
+Inputs must be provided in the terminal together with the file name (sys strategy was employes); the inputs must be written in the following order
+1. file name
+2. string 1
+3. string 2
+4. match score
+5. mismatch score
+6. gap score
