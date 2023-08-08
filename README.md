@@ -1,5 +1,5 @@
 # Bioinfomatics Assignments, year 2022/2023
-Codes and details 
+Codes and details. 
 ## Assignment 1: Sequence Alignment
 Implementing the Needleman-Wunsch algorithm, dynamic programming approach for the global sequence alignment, and the Smith-Waterman algorithm, dynamic programming approach for the local sequence alignment, both including the traceback.
 - Input: two sequences
